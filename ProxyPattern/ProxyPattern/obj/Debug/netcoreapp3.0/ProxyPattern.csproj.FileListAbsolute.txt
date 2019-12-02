@@ -1,0 +1,11 @@
+D:\InterviewS\PREPARING\DESIGNPATTERN\ProxyPattern\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp3.0\ProxyPattern.exe
+D:\InterviewS\PREPARING\DESIGNPATTERN\ProxyPattern\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp3.0\ProxyPattern.deps.json
+D:\InterviewS\PREPARING\DESIGNPATTERN\ProxyPattern\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp3.0\ProxyPattern.runtimeconfig.json
+D:\InterviewS\PREPARING\DESIGNPATTERN\ProxyPattern\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp3.0\ProxyPattern.runtimeconfig.dev.json
+D:\InterviewS\PREPARING\DESIGNPATTERN\ProxyPattern\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp3.0\ProxyPattern.dll
+D:\InterviewS\PREPARING\DESIGNPATTERN\ProxyPattern\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp3.0\ProxyPattern.pdb
+D:\InterviewS\PREPARING\DESIGNPATTERN\ProxyPattern\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp3.0\ProxyPattern.csprojAssemblyReference.cache
+D:\InterviewS\PREPARING\DESIGNPATTERN\ProxyPattern\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp3.0\ProxyPattern.AssemblyInfoInputs.cache
+D:\InterviewS\PREPARING\DESIGNPATTERN\ProxyPattern\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp3.0\ProxyPattern.AssemblyInfo.cs
+D:\InterviewS\PREPARING\DESIGNPATTERN\ProxyPattern\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp3.0\ProxyPattern.dll
+D:\InterviewS\PREPARING\DESIGNPATTERN\ProxyPattern\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp3.0\ProxyPattern.pdb
